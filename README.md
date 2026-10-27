@@ -1,4 +1,4 @@
-### ACS-3299-50 Fall 2026 Assignment 2
+### ACS-3922-50 Fall 2026 Assignment 2
 
 Instructions for the assignment are in the ACS-3922-A2.pdf located at the root of this repository.
 
